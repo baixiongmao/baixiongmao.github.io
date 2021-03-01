@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1614592058000,
+  "last_update": 1614636397000,
   "modules": [
+    {
+      "id": "MagiskHidePropsConf",
+      "last_update": 1614636397000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@8915b186de641144bb0ddd370e56354701ec7849/module.prop",
+      "zip_url": "https://hub.fastgit.org/Magisk-Modules-Repo/MagiskHidePropsConf/archive/8915b186de641144bb0ddd370e56354701ec7849.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@8915b186de641144bb0ddd370e56354701ec7849/README.md"
+    },
     {
       "id": "microg_installer",
       "last_update": 1614592058000,
@@ -50,13 +57,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@8d038040fffc48dd863ac4f7a7bd3b5476b357fa/module.prop",
       "zip_url": "https://hub.fastgit.org/Magisk-Modules-Repo/OneController/archive/8d038040fffc48dd863ac4f7a7bd3b5476b357fa.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@8d038040fffc48dd863ac4f7a7bd3b5476b357fa/README.md"
-    },
-    {
-      "id": "MagiskHidePropsConf",
-      "last_update": 1613999977000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@455c30d34e98aaea060b87306dff425e007814e1/module.prop",
-      "zip_url": "https://hub.fastgit.org/Magisk-Modules-Repo/MagiskHidePropsConf/archive/455c30d34e98aaea060b87306dff425e007814e1.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@455c30d34e98aaea060b87306dff425e007814e1/README.md"
     },
     {
       "id": "riru-core",
