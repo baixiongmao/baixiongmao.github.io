@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1614636397000,
+  "last_update": 1614692590000,
   "modules": [
     {
       "id": "MagiskHidePropsConf",
-      "last_update": 1614636397000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@8915b186de641144bb0ddd370e56354701ec7849/module.prop",
-      "zip_url": "https://hub.fastgit.org/Magisk-Modules-Repo/MagiskHidePropsConf/archive/8915b186de641144bb0ddd370e56354701ec7849.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@8915b186de641144bb0ddd370e56354701ec7849/README.md"
+      "last_update": 1614692590000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@bc6004aad01913feeaebe4520d4c5832febc0c2e/module.prop",
+      "zip_url": "https://hub.fastgit.org/Magisk-Modules-Repo/MagiskHidePropsConf/archive/bc6004aad01913feeaebe4520d4c5832febc0c2e.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@bc6004aad01913feeaebe4520d4c5832febc0c2e/README.md"
     },
     {
       "id": "microg_installer",
