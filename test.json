@@ -1,0 +1,76 @@
+{
+  "name": "Magisk Modules Repo (Official)",
+  "last_update": 1614797438000,
+  "modules": [
+    {
+      "id": "测试1",
+      "last_update": 1614797438000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@493e878c23ca4bf3602bb536a6233cb35e77a6b8/module.prop",
+      "zip_url": "https://hub.fastgit.org/Magisk-Modules-Repo/active_edge_system_mod/archive/493e878c23ca4bf3602bb536a6233cb35e77a6b8.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@493e878c23ca4bf3602bb536a6233cb35e77a6b8/README.md"
+    },
+    {
+      "id": "测试2",
+      "last_update": 1614782308000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@083eec03d7606129b12b7906c8d565dd481f40f1/module.prop",
+      "zip_url": "https://hub.fastgit.org/Magisk-Modules-Repo/riru-core/archive/083eec03d7606129b12b7906c8d565dd481f40f1.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@083eec03d7606129b12b7906c8d565dd481f40f1/README.md"
+    },
+    {
+      "id": "测试3",
+      "last_update": 1614692590000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@bc6004aad01913feeaebe4520d4c5832febc0c2e/module.prop",
+      "zip_url": "https://hub.fastgit.org/Magisk-Modules-Repo/MagiskHidePropsConf/archive/bc6004aad01913feeaebe4520d4c5832febc0c2e.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@bc6004aad01913feeaebe4520d4c5832febc0c2e/README.md"
+    },
+    {
+      "id": "测试4",
+      "last_update": 1614592058000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@8e2e6d8d7188f02d7fe94b074161384f7511ad94/module.prop",
+      "zip_url": "https://hub.fastgit.org/Magisk-Modules-Repo/microG_installer/archive/8e2e6d8d7188f02d7fe94b074161384f7511ad94.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@8e2e6d8d7188f02d7fe94b074161384f7511ad94/README.md"
+    },
+    {
+      "id": "测试5",
+      "last_update": 1614573040000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_ifw_enhance@ad13b4ddf9166fbb830d10f69580b9c402d2e7ab/module.prop",
+      "zip_url": "https://hub.fastgit.org/Magisk-Modules-Repo/riru_ifw_enhance/archive/ad13b4ddf9166fbb830d10f69580b9c402d2e7ab.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_ifw_enhance@ad13b4ddf9166fbb830d10f69580b9c402d2e7ab/README.md"
+    },
+    {
+      "id": "测试6",
+      "last_update": 1614513663000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_clipboard_whitelist@f95051b4f3b49ccfd1c433326e52e8ea2eb4e461/module.prop",
+      "zip_url": "https://hub.fastgit.org/Magisk-Modules-Repo/riru_clipboard_whitelist/archive/f95051b4f3b49ccfd1c433326e52e8ea2eb4e461.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_clipboard_whitelist@f95051b4f3b49ccfd1c433326e52e8ea2eb4e461/README.md"
+    },
+    {
+      "id": "测试7",
+      "last_update": 1614502906000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@f248abf083109cde61d074cc8274de4aac870b76/module.prop",
+      "zip_url": "https://hub.fastgit.org/Magisk-Modules-Repo/riru_lsposed/archive/f248abf083109cde61d074cc8274de4aac870b76.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@f248abf083109cde61d074cc8274de4aac870b76/README.md"
+    },
+    {
+      "id": "测试8",
+      "last_update": 1614403383000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/energizedprotection@190ef36164d9658f9ab13c0b212c87fc1cf40707/module.prop",
+      "zip_url": "https://hub.fastgit.org/Magisk-Modules-Repo/energizedprotection/archive/190ef36164d9658f9ab13c0b212c87fc1cf40707.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/energizedprotection@190ef36164d9658f9ab13c0b212c87fc1cf40707/README.md"
+    },
+    {
+      "id": "测试9",
+      "last_update": 1614255760000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@d0a9a31ca0b2524ad6c69e8b4b78e3fd227ed265/module.prop",
+      "zip_url": "https://hub.fastgit.org/Magisk-Modules-Repo/acc/archive/d0a9a31ca0b2524ad6c69e8b4b78e3fd227ed265.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@d0a9a31ca0b2524ad6c69e8b4b78e3fd227ed265/README.md"
+    },
+    {
+      "id": "测试10",
+      "last_update": 1614164772000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@8d038040fffc48dd863ac4f7a7bd3b5476b357fa/module.prop",
+      "zip_url": "https://hub.fastgit.org/Magisk-Modules-Repo/OneController/archive/8d038040fffc48dd863ac4f7a7bd3b5476b357fa.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@8d038040fffc48dd863ac4f7a7bd3b5476b357fa/README.md"
+    }
+  ]
+}
